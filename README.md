@@ -4,7 +4,8 @@ draw a 3D square using Python!
 see result in nano editor
 --------------------------
 
-![alt text][nano-image]
+![alt text](Screenshot from 2021-07-11 18-07-31.png)
+![alt text](Screenshot from 2021-07-11 18-07-53.png)
 
 
 ## see output in terminal
@@ -13,9 +14,3 @@ see result in nano editor
 ~~~~~~~~~~~~~~~~~~~~~~~
 Hello new beutifull World
 ~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-[nano-image]: Screenshot from 2021-07-11 18-07-31.png
-
-[termi-image]: Screenshot from 2021-07-11 18-07-53.png
